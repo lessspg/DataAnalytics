@@ -3,13 +3,13 @@ Project of analysing data from free data sources - VicRoads and Superfoodsmax gr
 
 
 Project 1: VicRoads
-#Business Analytics with SQL and Python
+#Business Analytics and Visualisation
 #The project is about making Victorian roads safe by analysing accidents, their occurrence, speed, location etc.
 
 
 
-Project 2: VicRoads
-#Business Analytics and Visualisation
+Project 2: SuperFoodsMax
+#Business Analytics with SQL and Python
 #The project is about Lifting Sales Revenue of grocery store by 5% in the next 2 years by analysing customer type, age group, popular grocery picks etc.
 
 
